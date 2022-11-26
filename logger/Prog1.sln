@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hai", "Hai\Hai.csproj", "{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6} = {166BC9D3-2F4A-4591-9988-40BCF644FBC6}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HaiDLL", "HaiDLL\HaiDLL.vcxproj", "{166BC9D3-2F4A-4591-9988-40BCF644FBC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|x64.Build.0 = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Debug|x86.Build.0 = Debug|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|x64.ActiveCfg = Release|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|x64.Build.0 = Release|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|x86.ActiveCfg = Release|Any CPU
+		{FCDBD053-9909-4AD7-9962-4BF4F9CFE7CE}.Release|x86.Build.0 = Release|Any CPU
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|Any CPU.Build.0 = Debug|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|x64.ActiveCfg = Debug|x64
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|x64.Build.0 = Debug|x64
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|x86.ActiveCfg = Debug|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Debug|x86.Build.0 = Debug|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|Any CPU.ActiveCfg = Release|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|Any CPU.Build.0 = Release|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|x64.ActiveCfg = Release|x64
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|x64.Build.0 = Release|x64
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|x86.ActiveCfg = Release|Win32
+		{166BC9D3-2F4A-4591-9988-40BCF644FBC6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24439401-1994-40A9-9F5F-70C26CCB45ED}
+	EndGlobalSection
+EndGlobal
